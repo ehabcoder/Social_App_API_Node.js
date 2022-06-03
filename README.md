@@ -1,3 +1,4 @@
+# Social_App_API
 A Social App API for managin a simple application which includes:
 1. user controller
 2. posts controller
@@ -26,4 +27,4 @@ GET: your_domain/api/posts => get all posts
 GET: your_domain/api/posts/:id => get a specific post
 PUT: your_domain/api/posts/:id => update a specific post
 DELETE: your_domain/api/posts/:id => delete a specific post# Social_App_API
-# Social_App_API
+
